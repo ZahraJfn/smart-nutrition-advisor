@@ -1,0 +1,212 @@
+[
+  {
+    "type": "breakfast",
+    "name": "Oatmeal with Fruits",
+    "protein": 10,
+    "fat": 5,
+    "carbs": 45
+  },
+  {
+    "type": "breakfast",
+    "name": "Greek Yogurt with Berries",
+    "protein": 15,
+    "fat": 5,
+    "carbs": 20
+  },
+  {
+    "type": "breakfast",
+    "name": "Egg and Avocado Toast",
+    "protein": 20,
+    "fat": 17,
+    "carbs": 25
+  },
+  {
+    "type": "breakfast",
+    "name": "Protein Smoothie",
+    "protein": 30,
+    "fat": 6,
+    "carbs": 40
+  },
+  {
+    "type": "breakfast",
+    "name": "Peanut Butter Banana Toast",
+    "protein": 12,
+    "fat": 14,
+    "carbs": 30
+  },
+  {
+    "type": "breakfast",
+    "name": "Cottage Cheese with Pineapple",
+    "protein": 18,
+    "fat": 4,
+    "carbs": 16
+  },
+  {
+    "type": "breakfast",
+    "name": "Avocado and Egg Wrap",
+    "protein": 22,
+    "fat": 15,
+    "carbs": 27
+  },
+  {
+    "type": "breakfast",
+    "name": "Muesli with Milk",
+    "protein": 10,
+    "fat": 6,
+    "carbs": 40
+  },
+  {
+    "type": "breakfast",
+    "name": "Tofu Scramble",
+    "protein": 19,
+    "fat": 11,
+    "carbs": 12
+  },
+  {
+    "type": "breakfast",
+    "name": "Whole Grain Pancakes",
+    "protein": 14,
+    "fat": 7,
+    "carbs": 38
+  },
+  {
+    "type": "lunch",
+    "name": "Grilled Chicken Salad",
+    "protein": 35,
+    "fat": 10,
+    "carbs": 15
+  },
+  {
+    "type": "lunch",
+    "name": "Salmon with Rice",
+    "protein": 40,
+    "fat": 20,
+    "carbs": 30
+  },
+  {
+    "type": "lunch",
+    "name": "Beef Stir Fry",
+    "protein": 38,
+    "fat": 15,
+    "carbs": 20
+  },
+  {
+    "type": "lunch",
+    "name": "Quinoa and Black Beans",
+    "protein": 22,
+    "fat": 9,
+    "carbs": 35
+  },
+  {
+    "type": "lunch",
+    "name": "Turkey Sandwich",
+    "protein": 25,
+    "fat": 11,
+    "carbs": 30
+  },
+  {
+    "type": "lunch",
+    "name": "Chickpea Salad",
+    "protein": 18,
+    "fat": 8,
+    "carbs": 27
+  },
+  {
+    "type": "lunch",
+    "name": "Tofu Stir Fry",
+    "protein": 19,
+    "fat": 12,
+    "carbs": 22
+  },
+  {
+    "type": "lunch",
+    "name": "Tuna Wrap",
+    "protein": 28,
+    "fat": 14,
+    "carbs": 28
+  },
+  {
+    "type": "lunch",
+    "name": "Chicken Fajitas",
+    "protein": 36,
+    "fat": 12,
+    "carbs": 34
+  },
+  {
+    "type": "lunch",
+    "name": "Spaghetti Bolognese",
+    "protein": 32,
+    "fat": 16,
+    "carbs": 45
+  },
+  {
+    "type": "dinner",
+    "name": "Vegetable Soup",
+    "protein": 6,
+    "fat": 4,
+    "carbs": 18
+  },
+  {
+    "type": "dinner",
+    "name": "Lentil Curry with Rice",
+    "protein": 26,
+    "fat": 10,
+    "carbs": 50
+  },
+  {
+    "type": "dinner",
+    "name": "Avocado and Chickpea Bowl",
+    "protein": 20,
+    "fat": 15,
+    "carbs": 30
+  },
+  {
+    "type": "dinner",
+    "name": "Baked Potato with Beans",
+    "protein": 16,
+    "fat": 5,
+    "carbs": 38
+  },
+  {
+    "type": "dinner",
+    "name": "Pasta Primavera",
+    "protein": 21,
+    "fat": 7,
+    "carbs": 42
+  },
+  {
+    "type": "dinner",
+    "name": "Shrimp Tacos",
+    "protein": 29,
+    "fat": 11,
+    "carbs": 32
+  },
+  {
+    "type": "dinner",
+    "name": "Grilled Tofu Bowl",
+    "protein": 23,
+    "fat": 13,
+    "carbs": 29
+  },
+  {
+    "type": "dinner",
+    "name": "Stuffed Peppers",
+    "protein": 19,
+    "fat": 9,
+    "carbs": 25
+  },
+  {
+    "type": "dinner",
+    "name": "Chicken Stir Fry with Veggies",
+    "protein": 34,
+    "fat": 10,
+    "carbs": 26
+  },
+  {
+    "type": "dinner",
+    "name": "Zucchini Noodles with Pesto",
+    "protein": 15,
+    "fat": 12,
+    "carbs": 20
+  }
+]
